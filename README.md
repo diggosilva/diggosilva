@@ -18,17 +18,6 @@
 
 <br>
 
-<div align="center"> 
-<a href="mailto:rdiggosilva@gmail.com">
-<img align="center"  height="80" width="80" src="https://github.com/diggosilva/diggosilva/assets/124936881/75acb420-7b47-460a-a40c-e72abe176721">
-</a>
-
-<a href="https://www.linkedin.com/in/rodrigo-silva-6a53ba300/" target=_blank>
-<img align="center"  height="80" width="80" src="https://github.com/diggosilva/diggosilva/assets/124936881/f41c201d-7c7c-4663-a9bf-a919676c9ef0">
-</a>
-
-</div>
-
 <div align="center" >
    
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/diggosilva?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=yellow) 
