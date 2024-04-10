@@ -1,6 +1,6 @@
 ### Hi there, I'm Diggo Silva 🤘🏼
 
- 👋🏼 Hello, I'm an enthusiastic student of iOS development, specializing in the Swift language!
+ 🧑🏻‍💻 Hello, I'm an enthusiastic student of iOS development, specializing in the Swift language!
 
  💻 Currently looking for opportunities to apply and expand my knowledge in mobile app development.
  
