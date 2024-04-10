@@ -1,23 +1,3 @@
-<!-- ### Hi there, I'm Diggo Silva 🤘🏼
-
- 🧑🏻‍💻 Hello, I'm an enthusiastic student of iOS development, specializing in the Swift language!
-
- 💻 Currently looking for opportunities to apply and expand my knowledge in mobile app development.
- 
- 💡 I'm always looking to learn and collaborate on exciting projects. If you're looking for a motivated and dedicated developer, I'm ready to contribute! 🚀
-
-<div>
-<a href="https://github.com/diggosilva">
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=diggosilva&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-
-
-<div/>
--->
-
-
-
-
-
 <img width=100% bottom=50px src="https://github.com/diggosilva/diggosilva/assets/124936881/1429a9f5-ad45-43b5-ba3c-35f286597232b"/>
 <br>
 <br> 
@@ -28,30 +8,20 @@
  
  💡 I'm always looking to learn and collaborate on exciting projects. If you're looking for a motivated and dedicated developer, I'm ready to contribute! 🚀
 
-<br>
 <br> 
 
 <div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=diggosilva&theme=dark&card_width=900)](https://git.io/streak-stats)
-
+  <a href="https://github.com/diggosilva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diggosilva&show_icons=true&theme=dark&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diggosilva&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<!--
-<div align="center"> 
-<a href="https://instagram.com/carol_developer" target="_blank">
-<img align="center" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
-</a>
+<br>
 
-<a href="https://www.youtube.com/channel/UCvFCatDtfdvwKKXkndSAPiw" target="_blank">
-<img align="center" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3000a2c-f43c-4145-9f8d-3c5b58a5dae0">
-</a>
--->
 <div align="center"> 
 <a href="mailto:rdiggosilva@gmail.com">
 <img align="center"  height="80" width="80" src="https://github.com/diggosilva/diggosilva/assets/124936881/75acb420-7b47-460a-a40c-e72abe176721">
 </a>
-
 
 <a href="https://www.linkedin.com/in/rodrigo-silva-6a53ba300/" target=_blank>
 <img align="center"  height="80" width="80" src="https://github.com/diggosilva/diggosilva/assets/124936881/f41c201d-7c7c-4663-a9bf-a919676c9ef0">
@@ -78,10 +48,6 @@
 <br>
 <br> 
 <br>
-<br>
-<br>
-<br> 
-
 
 <h2 align="left"> Studying in this moment: </h2>
 
@@ -91,10 +57,8 @@
 
 </div>
 
-
 <div align="center">
   
-<br>
 <br>
 <br>
 <br>
