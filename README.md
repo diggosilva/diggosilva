@@ -38,6 +38,7 @@
 <br> 
 <br>
 
+<!--
 <h2 align="left"> Studying in this moment: </h2>
 
 <div align="left"> 
@@ -45,6 +46,7 @@
 <img align="left"  height="80" width="80" src="https://github.com/diggosilva/diggosilva/assets/124936881/1288f1fa-2dc9-48fc-a209-638e8e68396d">
 
 </div>
+-->
 
 <div align="center">
   
