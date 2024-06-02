@@ -25,16 +25,11 @@
 </div>
 
 ### Language & Tools:
-<div align="left"> 
-<img align="left" height="84" width="84" src="https://github.com/diggosilva/diggosilva/assets/124936881/0b6d5963-650c-4eff-be66-c6425e8af2d9">
+[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org/)
+[![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](https://developer.apple.com/xcode/)
+[![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://developer.apple.com/ios/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Junior-iOS)
 
-<img align="left" height="80" width="80" src="https://github.com/diggosilva/diggosilva/assets/124936881/5344d837-16b1-498d-8484-2bc7e5a33e4f">
-
-<img align="left"  height="80" width="80" src="https://github.com/diggosilva/diggosilva/assets/124936881/3a147f8d-f571-4919-af63-ef08a5d10864">
-
-</div>
-
-<br>
 <br> 
 <br>
 
@@ -50,7 +45,6 @@
 
 <div align="center">
   
-<br>
 <br>
 <br>
 
