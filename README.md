@@ -24,7 +24,7 @@
 
 </div>
 
-### Language - Tools:
+### Language & Tools:
 <div align="left"> 
 <img align="left" height="84" width="84" src="https://github.com/diggosilva/diggosilva/assets/124936881/0b6d5963-650c-4eff-be66-c6425e8af2d9">
 
